@@ -39,3 +39,13 @@
 .visit-date {
     margin: 8px 0;
 }
+
+@media screen and (max-width: 800px) {
+    .journal {
+        flex-direction: column;
+    }
+
+    .journal-photo {
+        display: none;
+    }
+}
