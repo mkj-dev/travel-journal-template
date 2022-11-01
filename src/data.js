@@ -3,7 +3,7 @@ const journeyData = [
         id : 1,
         photo: 'https://source.unsplash.com/WLxQvbMyfas',
         country: 'Japan',
-        place: 'Mount Fouji',
+        place: 'Mount Fuji',
         visitDate: '12 Jan, 2021 - 24 Jan, 2021',
         information: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus recusandae, ipsa ex culpa nesciunt, adipisci pariatur inventore accusantium facere quibusdam error cum modi illo, magni atque doloribus quidem aspernatur accusamus sit iusto reprehenderit tenetur alias doloremque? Consequatur, distinctio quisquam dignissimos sit dolores modi incidunt neque, praesentium doloribus dolorum nulla necessitatibus?'
     },
