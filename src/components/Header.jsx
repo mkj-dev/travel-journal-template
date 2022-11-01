@@ -1,6 +1,6 @@
 import React from "react"
 import "../css/Header.css"
-import globeImg from '../images/logo.png'
+import globeImg from '../images/logo.svg'
 
 function Header() {
     return (
