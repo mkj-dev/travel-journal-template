@@ -1,0 +1,41 @@
+.journal {
+    display: flex;
+    margin: 32px;
+    max-height: 300px;
+}
+
+.journal-photo {
+    border-radius: 8px;
+    max-width: 400px;
+}
+
+.journal-post {
+    display: flex;
+    flex-direction: column;
+    padding: 18px;
+    overflow-y: auto;
+}
+
+.journal-location {
+    display: flex;
+    align-items: center;
+}
+
+.location-pin {
+    width: 16px;
+    padding: 16px 16px 16px 0;
+}
+
+.location-country {
+    text-transform: uppercase;
+}
+
+.location-link {
+    color: #918E9B;
+    text-transform: none;
+    padding: 8px;
+}
+
+.visit-date {
+    margin: 8px 0;
+}
